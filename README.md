@@ -1,0 +1,2 @@
+# SpringBoot整合RabbitMQ
+演示了direct、fanouttopic三种模式下的消息的发送和消费
